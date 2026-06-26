@@ -6,3 +6,7 @@ print("Hi this is f_2 working here")
 
 #these are the advanced changes done by f_2 branch below
 print("This is the advanced changes done by f_2 branch")
+print("This is actually a correct way to work learn from me ")
+# CORRECT WAY TO WORK 
+
+#okay we have complete the work now its a time to merge the changes 
