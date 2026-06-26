@@ -3,3 +3,5 @@ print("Hello world")
 
 print("This is actually a correct way to work learn from me ")
 # CORRECT WAY TO WORK 
+
+#okay we have complete the work now its a time to merge the changes 
